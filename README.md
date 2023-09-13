@@ -18,6 +18,7 @@
 
 Zgłoszenia błędów ze sklepu www.delikont.pl
 
-[zdjęcie 1] ("C:\Users\48796\Desktop\jira bugs\bugs\Zrzut ekranu 2023-09-13 084344.jpg")
+[zdjęcie 1](https://github.com/AndrzejIt/portfolio/assets/144881625/1a9b1e03-c999-4fbd-8e9e-61a5241cdc3d)
+
   
   
