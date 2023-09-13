@@ -19,6 +19,9 @@
 Zgłoszenia błędów ze sklepu www.delikont.pl
 
 [zdjęcie 1](https://github.com/AndrzejIt/portfolio/assets/144881625/1a9b1e03-c999-4fbd-8e9e-61a5241cdc3d)
+[zdjęcie 2](https://github.com/AndrzejIt/portfolio/assets/144881625/0f3db634-a098-45e8-8f86-620d58ee3d0f)
+[zdjęcie 3](https://github.com/AndrzejIt/portfolio/assets/144881625/6cf2610a-b59d-4ce3-bc13-05423ffb2ad1)
+
 
   
   
